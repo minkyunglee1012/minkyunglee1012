@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-                                ![스크린샷 2024-03-08 162912](https://github.com/minkyunglee1012/minkyunglee1012/assets/156975194/0dffc4b0-7066-42bc-b825-68045c19a526)
-
 <!--
 **minkyunglee1012/minkyunglee1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
