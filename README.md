@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFD1E3,100:BED7DC&height=100&section=header&text=Welcome😊&fontColor=B4B4B8&fontSize=30)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyunglee1012&show_icons=true&theme=radical&hides=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyunglee1012&show_icons=true&theme=graywhite&hides=contribs,prs)
 
 
 ![image](https://github.com/minkyunglee1012/minkyunglee1012/assets/156975194/f5effb06-9531-4b0e-b0fc-b391c92a3835)
