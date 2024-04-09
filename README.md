@@ -9,7 +9,7 @@
 ![image](https://github.com/minkyunglee1012/minkyunglee1012/assets/156975194/f5effb06-9531-4b0e-b0fc-b391c92a3835)
 
 
-<h4>Programming</h4>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<h4>Programming <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> </h4>
 Framework  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 
 </div>
