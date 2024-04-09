@@ -2,7 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyunglee1012&show_icons=true&theme=radical)
 
-### My skils
+
+![image](https://github.com/minkyunglee1012/minkyunglee1012/assets/156975194/f7b9d35e-04cb-4562-bcfd-f228b4dcc47c)
+
 * Programming  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 * Framework  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 
