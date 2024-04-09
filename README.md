@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:FFD1E3,100:BED7DC&height=100&section=header&text=Welcome😊&fontColor=B4B4B8&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFD1E3,100:BED7DC&height=100&section=header&text=Welcome😊&fontColor=B4B4B8&fontSize=30)
 
 
+### My skils
 * Programming  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 * Framework  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 
