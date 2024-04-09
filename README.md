@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFD1E3,100:BED7DC&height=100&section=header&text=MinKyungHub😊&fontColor=B4B4B8&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFD1E3,100:BED7DC&height=100&section=header&text=Welcome😊&fontColor=B4B4B8&fontSize=30)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyunglee1012&show_icons=true&theme=radical)
 
 ### My skils
 * Programming  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
