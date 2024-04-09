@@ -6,7 +6,7 @@
 
 ---
 
-![image](https://github.com/minkyunglee1012/minkyunglee1012/assets/156975194/f5effb06-9531-4b0e-b0fc-b391c92a3835)
+<h1> My Skills 🕊️ </h1>
 
 
 <h4>Programming  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> </h4>
