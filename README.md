@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=100&section=header&text=Hello&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:FFD1E3,100:5BBCFF&height=100&section=header&text=Hello&fontSize=50)
 
 
 * Programming  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
