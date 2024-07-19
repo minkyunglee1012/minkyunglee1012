@@ -1,5 +1,8 @@
 
 
+<div>
+  데이터 분석가를 꿈꾸며
+</div>
 
 <div align="center">
   
