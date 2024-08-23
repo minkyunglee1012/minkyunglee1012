@@ -2,7 +2,7 @@
 
 
 
-<div align="center">
+<div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyunglee1012&show_icons=true&theme=panda&hides=contribs,prs)
 
